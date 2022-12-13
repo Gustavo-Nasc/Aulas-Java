@@ -1,7 +1,7 @@
 # Java - Fatec Zona Leste
 
 ## 🚀 Tecnologias
-- [Eclipse](https://www.eclipse.org), como IDE
+- [IntelliJ](https://www.jetbrains.com/pt-br/idea/), como IDE
 - [Java](https://www.java.com/pt-BR/)
 - [JDK (Java SE Development Kit)](https://www.oracle.com/br/java/technologies/downloads/)
 
